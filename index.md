@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## Welcome to Zhiyuan's Blog
 
-You can use the [editor on GitHub](https://github.com/zychen-ian/ZChenBlog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This page is temporarily served to provide a to-do list / schedule for me in job hunting preferably in software development.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Data Strutures & Algorithms
+--
+Eat, Code & no Sleep
 
-### Markdown
+* [Leetcode](https://leetcode.com/problemset/algorithms/)
+* Key concepts & implementions in data structures
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Technologies to learn
+--
+* RESTful web service APIs
+* [System Design](https://www.hiredintech.com/classrooms/system-design/lesson/60)
 
-# Header 1
-## Header 2
-### Header 3
+### Behavioral Questions
+--
+* Can-do attitude
 
-- Bulleted
-- List
+### Resumes & Cover Letter
+--
+Before someone know you, take a whole look at yourself.
 
-1. Numbered
-2. List
+* Build up your experience pool
+* Customize your resume for different job positions
 
-**Bold** and _Italic_ and `Code` text
+### Profiles 
+--
+It is always one of the most important things to enrich consistently your profiles. 
 
-[Link](url) and ![Image](src)
-```
+* [Linkedin](https://www.linkedin.com/feed/?trk=)
+* [Github](https://github.com/zychen-ian)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Job Hunting
+--
+* [Hired](https://hired.com/profile)
+* [Indeed](https://www.indeed.com/)
+* [Monster]()
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zychen-ian/ZChenBlog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Other
+--
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Daily Personal Blog](personal/blog.md)
+
