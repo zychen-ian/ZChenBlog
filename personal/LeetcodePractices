@@ -1,1 +1,20 @@
 new List<List<String>>(map.values()); // List cannot be initialized..
+int[] cannot be converted to Integer[]
+ Map<int[], List<String>> map = new HashMap<int[], List<String>>(); // valid!
+ 
+ Arrays.asList("variable of array type") -> List !!
+ Arrays.sort("variable of array type") -> None yet Array has been sorted !!
+ 
+ array is an object in Java!!!
+ int[], char[]
+ int[] cannot be converted into Integer[]
+ 
+ contains?
+ List<>  - contains()
+ Map<> - containsKey()
+ 
+ String can be different object but with identical value
+ Yet other objects of types should be identical like int[]..String[] !!
+ 
+ "Hello World!!".toCharArrary() -> char[]
+ String.valueOf(char[] var) -> String
