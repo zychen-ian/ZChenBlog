@@ -20,3 +20,6 @@ int[] cannot be converted to Integer[]
  String.valueOf(char[] var) -> String
 
 double[] a = {1.9, 2.9, 3.4, 3.5} // {}!!
+
+charAt(int); // NOT chatAt, NOT charAr!!
+String.substring(int, int); // NOT subString
