@@ -18,3 +18,5 @@ int[] cannot be converted to Integer[]
  
  "Hello World!!".toCharArrary() -> char[]
  String.valueOf(char[] var) -> String
+
+double[] a = {1.9, 2.9, 3.4, 3.5} // {}!!
