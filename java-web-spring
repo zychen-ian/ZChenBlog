@@ -65,5 +65,7 @@ padding: 5px 22px;
 
 & in HTML is "&#38;"
 
+If you wanna use this as placement code, make sure you add an outer-most div that contains multiple block elements
+
 TODOs:
 - Create your own logo for bookstore website
