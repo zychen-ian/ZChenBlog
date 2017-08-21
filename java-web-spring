@@ -1,0 +1,69 @@
+Start with a Spring Starter Project - Bookstore
+- Group: com.bookstore
+- Artifact: bookstore
+- Description:
+- Package: com.bookstore
+
+
+Use thymeleaf
+should use closed/self-closed tags; otherwise, produce compiler errors
+
+pom.xml to add dependency
+
+JQuery is needed for libraries from Bootstrap
+
+There was an unexpected error (type=Internal Server Error, status=500). 
+// status code 500: internal error
+
+
+Bootstrap:
+navbar-inverse: inverse color of navbar from white theme to black theme
+carousel: notice that every carousel has its own id and 
+should have it populated through the code snippet
+
+// like featured-book is id for the below code snippet
+<div id="featured-book" class="carousel slide" 
+				data-ride="carousel">
+				<!-- Indicators -->
+				<ol class="carousel-indicators">
+					<li data-target="#featured-book" data-slide-to="0"
+						class="active"></li>
+					<li data-target="#featured-book" data-slide-to="1"></li>
+					<li data-target="#featured-book" data-slide-to="2"></li>
+				</ol>
+
+				<!-- Wrapper for slides -->
+				<div class="carousel-inner" role="listbox">
+					<div class="item active"></div>
+					<div class="item"></div>
+					<div class="item"></div>
+				</div>
+
+				<!-- Controls -->
+				<a class="left carousel-control" href="#featured-book"
+					role="button" data-slide="prev"> <span
+					class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+					<span class="sr-only">Previous</span>
+				</a> <a class="right carousel-control" href="#featured-book"
+					role="button" data-slide="next"> <span
+					class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+					<span class="sr-only">Next</span>
+				</a>
+        
+
+Steps to disable reponsiveness of navbar in bootstrap
+https://getbootstrap.com/docs/3.3/examples/non-responsive/
+1. remove a statement in the header 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+2. add non-responsive.css
+
+
+The first value is for top and bottom padding. The second value is for left and right padding.
+padding: 5px 22px; 
+- top and bottom padding are 5px
+- right and left padding are 22px
+
+& in HTML is "&#38;"
+
+TODOs:
+- Create your own logo for bookstore website
