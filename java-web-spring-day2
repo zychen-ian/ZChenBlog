@@ -1,0 +1,31 @@
+TODO:
+1. understand the layout of each html file
+2. basic concepts of spring, like HomeController
+
+
+
+<div class="row"> // row
+		<div class="col-xs-8"></div> // col-width 
+		<div class="col-xs-4"></div> // 8+4=12
+</div>
+
+
+<div class="col-xs-9 col-xs-offset-3"> // this div starts with 3 (instead of 0) and its width is 9
+    
+- O/R Mapping
+- Hibernate, JPA
+
+Objects in Memory 
+<-  Mapping layer (O/R tools such as Hibernate which follows JPA specification) ->
+Relational Database
+
+ISSUES:
+1. runtime-error
+java.lang.NoClassDefFoundError: org/hibernate/annotations/common/reflection/java/JavaReflectionManager
+
+
+Collection.forEach(var -> ...); // keyword forEach is introduced in Java 8
+
+
+CSS:
+http://zh.learnlayout.com/no-layout.html
